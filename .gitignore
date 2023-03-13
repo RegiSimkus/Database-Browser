@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/Database Browser
+/Database Browser/Debug
+/Database Browser/x64/Debug
+/Debug
+/x64/Debug
